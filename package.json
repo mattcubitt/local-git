@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "git-http-backend": "^1.0.2",
+    "zlib": "^1.0.5"
+  }
+}
